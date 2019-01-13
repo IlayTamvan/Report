@@ -1,7 +1,7 @@
 # Report
 Code : Secret
 
-# FOSITIF YHINKING
+# FOSITIF THINKING
 Jangan Banyak Tanya
 
-<Img src="Image/Report.png">
+<Img src="Stock/Report.png">
